@@ -41,3 +41,7 @@
   width: 33%;
   float: left;
 }
+
+[class*='col-'] {
+  margin: 0 0 2% 0;
+}
