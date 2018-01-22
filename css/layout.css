@@ -40,5 +40,5 @@
 .col-3 {
   width: 33%;
   float: left;
-  clear: left;
+  clear:none;
 }
