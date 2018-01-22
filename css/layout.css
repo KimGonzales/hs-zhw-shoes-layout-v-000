@@ -26,8 +26,5 @@
 
 .aside {
   float: right;
-}
-
-section #featured-brands {
-  float: left;
+  width: 32%
 }
