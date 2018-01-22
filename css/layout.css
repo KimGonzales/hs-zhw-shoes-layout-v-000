@@ -42,6 +42,6 @@
   float: left;
 }
 
-[class*="col-"] {
+[class*="col-3"] {
   margin: 0 0 2% 0;
 }
