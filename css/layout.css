@@ -24,12 +24,12 @@
 
 /* Posititoning Classes */
 
-.aside {
-  float: right;
-  width: 32%;
-}
-
-.col-2 {
+.col-1 {
   float: left;
   width: 66%;
+}
+
+.col- {
+  float: left;
+  width: 33%;
 }
